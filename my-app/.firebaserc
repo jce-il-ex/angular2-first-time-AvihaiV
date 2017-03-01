@@ -1,5 +1,6 @@
 {
   "projects": {
-    "Avihai": "myapp-8fcb6"
+    "Avihai": "myapp-8fcb6",
+    "default": "myapp-8fcb6"
   }
 }
